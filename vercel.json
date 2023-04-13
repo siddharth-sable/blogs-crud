@@ -1,8 +1,3 @@
 {
-  "build": {
-    "env": {
-      "PM2": "true"
-    },
-    "buildCommand": "json-server --watch data/db.json"
-  }
+  "buildCommand": "json-server --watch data/db.json"
 }
